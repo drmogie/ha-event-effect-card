@@ -7,6 +7,10 @@ spotlight sweep, falling leaves, wind-blown leaves, rain, snow, hail, and
 lightning — over your whole dashboard whenever chosen calendar events, a
 switch, or the weather triggers it.
 
+## 2026.09.30.01 — version number changed to the date format
+
+The code is the same as 0.10.1. Only the version number changed, to match the YYYY.MM.DD.## format used by all my projects.
+
 ## v0.10.1 — windy leaves now fall while they blow
 
 The Windy effect's leaves previously traveled purely horizontally (with
@@ -25,7 +29,7 @@ Added **Windy 🍃** — leaves blown horizontally left-to-right, with a
 vertical "flutter" wobble and a rotation that flips back and forth like
 paper caught in a gust rather than a steady spin, plus a few faint
 fast-dashing streak lines layered behind them to sell the sense of a
-gust passing through. (See v0.10.1 right above — the initial version had
+gust passing through. (See v0.10.1 just below — the initial version had
 no downward fall; that was fixed shortly after.) Same lightweight
 CSS-animation approach as everything else.
 

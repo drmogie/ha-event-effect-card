@@ -1,6 +1,6 @@
 /*
  * HA Event Effect Card for Home Assistant
- * v0.10.1
+ * v2026.09.30.01 (same code as 0.10.1)
  * Dependency-free custom Lovelace card.
  *
  * Fixes vs v0.1.0:
@@ -25,7 +25,7 @@
 
 const CARD_TAG = "ha-event-effect-card";
 const EDITOR_TAG = "ha-event-effect-card-editor";
-const VERSION = "0.10.1";
+const VERSION = "2026.09.30.01";
 const EFFECTS = [
   "streamers",
   "fireworks",
